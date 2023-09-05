@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://storage.googleapis.com/pai-images/upscaled_image-ae520119-4671-46ac-9622-8999a2041fc5.png"  />
+
 
 ###
 
@@ -22,8 +22,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/harsh-m-patil/harsh-m-patil/output/snake.svg" alt="Snake animation" />
 
 ###
