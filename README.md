@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **harshmpatil2004@gmail.com**
+- 📫 How to reach me **humpatil1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/humpatil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="humpatil1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshmpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh-m-patil" height="30" width="40" /></a>
 </p>
 
