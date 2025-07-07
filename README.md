@@ -15,8 +15,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh-m-patil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-m-patil&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" alt="Harshwardhan's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=harsh-m-patil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" alt="Most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-m-patil&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -24,7 +24,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harsh-m-patil&theme=tokyonight)](https://git.io/streak-stats)
 
-## </div>
+</div>
 
 ## 🛠️ Tech Stack
 
