@@ -1,6 +1,6 @@
 # Harshwardhan Patil
 
-_Computer Science Student • Full-Stack Developer_
+_Computer Science Student • AI Engineer • Full-Stack Developer_
 
 ---
 
