@@ -1,8 +1,8 @@
 # Harshwardhan Patil
 
-_AI Engineer (Automation & Agent Systems) • Full-Stack Developer • CS @ IIIT Sri City_
+_AI Engineer • Full-Stack Developer • CS @ IIIT Sri City_
 
-Gen AI Intern @ Swiggy — building self-serve AI workflows, LLM infra ops, and internal automation
+Gen AI Intern @ Swiggy — building self-serve AI workflows, LLM infra ops, and internal agents
 
 ---
 
