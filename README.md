@@ -46,7 +46,7 @@ const harsh = {
 
 - [oss-triage-agent](https://github.com/harsh-m-patil/oss-triage-agent): agentic tooling for open-source issue triage
 - [Handoff.nvim](https://github.com/harsh-m-patil/handoff.nvim): Neovim tooling for structured handoffs
-- [Agents Dashboard](https://github.com/harsh-m-patil/agents-dashboads): dashboard for agent workflows
+- [Agents Dashboard](https://github.com/harsh-m-patil/agents-dashboard): dashboard for agent workflows
 
 ## Open Source
 
